@@ -2,7 +2,7 @@
 
 ## Research Overview
 
-I developed a PhD-level sign language recognition system as independent research during my bachelor studies. The system uses a novel two-stream architecture combining RGB video and pose keypoints.
+I developed a  sign language recognition system as independent research during my bachelor studies. The system uses a novel two-stream architecture combining RGB video and pose keypoints.
 
 ## Key Results
 
